@@ -1,24 +1,27 @@
 # Problem 1
-# Create a variable for your lucky number and print it.
-
+Print ("11")
+# because I am eleven years old.
 
 
 # Problem 2
-# Create a variable for the number of hours you sleep and print it.
+Print ("9.5")
 
 
 
 # Problem 3
-# Create a variable for your favorite fruit and print it in a full sentence.
+Print ("My favorite fruit is Jackfruit.")
 
 
 
 # Problem 4
-# Create two variables: one for your city and one for your country.
-# Print them on 2 separate lines.
+Print ("Redmond")
+Print ("United States of America")
 
 
 
 # Problem 5
+# I don't have a pet but I will write about my dream pet.
 # Create 3 variables: your pet's name, its age, and its type.
-# Print them on the same line in a full sentence.
+Print ("Cookie")
+Print ("3")
+Print("Australian Shepard")
