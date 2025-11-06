@@ -1,27 +1,34 @@
 # Problem 1
-Print ("11")
+a=11
+Print (a)
 # because I am eleven years old.
 
 
 # Problem 2
-Print ("9.5")
+b= 9.5
+Print (b)
 
 
 
 # Problem 3
-Print ("My favorite fruit is Jackfruit.")
+c=My favorite fruit is Jackfruit
+Print (c)
 
 
 
 # Problem 4
-Print ("Redmond")
-Print ("United States of America")
+d=Redmond
+Print (d)
+e= United States of America
+Print (e)
 
 
 
 # Problem 5
 # I don't have a pet but I will write about my dream pet.
-# Create 3 variables: your pet's name, its age, and its type.
-Print ("Cookie")
-Print ("3")
-Print("Australian Shepard")
+f=Cookie
+Print (f)
+g=3
+Print (g)
+h= Australian Shepard
+Print(h)
